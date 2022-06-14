@@ -23,7 +23,7 @@
   3) if the game can be continued after new 2 or 4 appearance (if not,
   the game is over and a corresponding message will appear);
 
-2. Technologies stack: HTML5, CSS3, BEM, SASS (I was provided with ready markup and SCSS), JS.
+2. Technologies stack: HTML5, CSS3, SASS (I was provided with ready markup and SCSS), JS.
 
 3. Preview link: https:/mykhailoivchenko.github.io/2048-game/
 
